@@ -1,0 +1,26 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  font-size: 2px;
+}
+
+p {
+  font-size: 50px;
+}
+
+h3 {
+  font-weight: bolder;
+  color: red;
+}
+
+ul {
+  color: green;
+  font-weight: bold;
+}
+
+ol {
+  color: red;
+  font-style: italic;
+}
