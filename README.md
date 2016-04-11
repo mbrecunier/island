@@ -12,7 +12,9 @@ This is a simple html project for Epicodus to practice using branching and mergi
 
 * Clone this Repo
 * Open index.html in your web brower
+
 --or--
+
 * Open view on [github pages] (http://mbrecunier.github.io/island/)
 
 
